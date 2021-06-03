@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182431975889",
+    "firebase_url": "https://messenger-b612e-default-rtdb.firebaseio.com",
+    "project_id": "messenger-b612e",
+    "storage_bucket": "messenger-b612e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182431975889:android:708b9ff0bad17df510b8f0",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182431975889-i364co2dv1tv3kf9jf1aspa54bqk0voj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCAV4-Jm-kdb2-LKh3hHFl__WqoUWqIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182431975889-i364co2dv1tv3kf9jf1aspa54bqk0voj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
